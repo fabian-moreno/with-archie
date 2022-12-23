@@ -1,0 +1,11 @@
+{
+  "Header": {
+    "archie": "Archie"
+  },
+  "Toolbar": {
+    "search": "Search Launches"
+  },
+  "EmptyState": {
+    "notFound": "Your search did not match any launch"
+  }
+}
